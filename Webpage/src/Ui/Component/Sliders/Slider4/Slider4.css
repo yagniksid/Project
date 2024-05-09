@@ -1,0 +1,10 @@
+ .slick-prev {
+     top: 34% !important;
+     left: 5px !important;
+     z-index: 1
+ }
+
+ .slick-next {
+     top: 34% !important;
+     right: 5px !important;
+ }
